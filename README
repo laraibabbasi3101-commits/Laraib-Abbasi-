@@ -1,0 +1,33 @@
+# 💻 C++ Core & Object-Oriented Programming (OOP) Portfolio
+
+Welcome to my C++ development repository! This space showcases practical, real-world console applications built from scratch using **Modern C++**, focusing on clean code architecture, data structures, and persistent file storage.
+
+---
+
+## 📂 Featured Projects in This Repository
+
+### 1. 🏦 Banking & ATM Management System (`bank_management_system.cpp`)
+An Object-Oriented banking simulation system designed to handle customer accounts and financial transactions securely.
+* **Key Features:** Account creation (Savings/Current), instant deposits, overdraft-protected withdrawals, balance inquiry, and admin account directory.
+* **Concepts Used:** Classes & Objects, Encapsulation, String Parsing, STL Vectors, and File Handling (`bank_records.txt`).
+
+### 2. 💰 Personal Finance & Budget Tracker (`budget_tracker.cpp`)
+A lightweight financial utility to track daily cash flow, categorize expenses, and prevent overspending.
+* **Key Features:** Categorized income/expense logging, automated balance validation, tabular transaction history, and automatic data saving.
+* **Concepts Used:** Structures (`struct`), Formatted I/O (`iomanip`), File Streams (`fstream`), and Control Loops.
+
+---
+
+## 🛠️ Tech Stack & Core Competencies
+* **Language:** C++ (C++11 / C++17)
+* **Programming Paradigms:** Procedural & Object-Oriented Programming (OOP)
+* **Core Tools & Libraries:** STL (`<vector>`, `<string>`, `<iomanip>`), File I/O (`<fstream>`), GCC / G++ Compiler
+
+---
+
+## 🚀 How to Compile & Run Any Project
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/laraibbabbasi3101-commits/Laraib-Abbasi-.git](https://github.com/laraibbabbasi3101-commits/Laraib-Abbasi-.git)
+   cd Laraib-Abbasi-
